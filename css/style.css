@@ -348,7 +348,7 @@ h3.my-profession
     width: 80px;
     border-bottom: 10px solid var(--skin-color);
     border-right: 10px solid var(--skin-color);
-    right: 20px;
+    right: -20px;
     bottom: -40px;
 }
 .home-img::before
@@ -563,7 +563,7 @@ h3.my-profession
     text-align: justify;
     color: var(--text-black-700);
 }
-/* service */
+
 .service .container
 {
     padding-bottom: 40px;
